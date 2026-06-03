@@ -2,14 +2,14 @@
 _________________________________________________________CODE_______________________________________________________________
 public class Methods {
 	
-	//Create method to print your name
+	//*************** Create method to print your name ***************
 	
 	public void printname(String name)
 	{
 		System.out.println(name);
 	}
 	
-	//Create method to add two numbers
+	//************** Create method to add two numbers ***************
 	
 	public void add(int a, int b)
 	{
@@ -17,7 +17,7 @@ public class Methods {
 		System.out.println("Addition of "+a+" and "+b+" is "+c);
 	}
 	
-	//Create method to check even or odd
+	//*************** Create method to check even or odd ***************
 	
 	public void EvenOdd(int num)
 	{
@@ -27,14 +27,14 @@ public class Methods {
 			System.out.println(num+" is odd number");
 	}
 	
-	//Create method to find square of number
+	//*************** Create method to find square of number ***************
 	
 	public void square(int num)
 	{
 		System.out.println("Square of "+num+" is "+num*2);
 	}
 	
-	//Create method to return largest of two numbers
+	//*************** Create method to return largest of two numbers ***************
 	
 	public void findLarge(int num1, int num2)
 	{
